@@ -18,3 +18,11 @@ Results:
 -The HPT sheet is the document I used to keep track of all the accuracies from each version of the model in all the approaches
 
 -The pdf is the document I used to store all the results such as classification reports and confusion matrixes
+
+User Test:
+
+Disease Classification User Testing: This is the code for the classification function
+
+Images: These are some of the sample images you can run through the model for classification
+
+Intrusctions: As the process can be quite complicated, follow these instructions to test the model on your own.
