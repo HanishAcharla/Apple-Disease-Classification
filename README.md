@@ -2,7 +2,7 @@
 
 Paper Summary: https://docs.google.com/document/d/11jf7lHJU6IOVDTwE61nuoiBuO8W1_Zz3vMVJeXuR5Z4/edit?tab=t.0
 
-This Github is split into 2 main folders. 
+This Github is split into 3 main folders. 
 
 Code:
 
@@ -25,4 +25,4 @@ Disease Classification User Testing: This is the code for the classification fun
 
 Images: These are some of the sample images you can run through the model for classification
 
-Intrusctions: As the process can be quite complicated, follow these instructions to test the model on your own.
+Intstructions: As the process can be quite complicated, follow these instructions to test the model on your own.
