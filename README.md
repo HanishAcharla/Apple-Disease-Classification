@@ -19,10 +19,11 @@ Results:
 
 -The pdf is the document I used to store all the results such as classification reports and confusion matrixes
 
-User Test:
 
-Disease Classification User Testing: This is the code for the classification function
+User Test: All information for judge testing will be available here
 
-Images: These are some of the sample images you can run through the model for classification
+-Disease Classification User Testing: This is the code for the classification function
 
-Intstructions: As the process can be quite complicated, follow these instructions to test the model on your own.
+-Images: These are some of the sample images you can run through the model for classification
+
+-Intstructions: As the process can be quite complicated, follow these instructions to test the model on your own.
