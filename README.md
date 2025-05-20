@@ -27,3 +27,6 @@ User Test: All information for judge testing will be available here
 -Images: These are some of the sample images you can run through the model for classification
 
 -Intstructions: As the process can be quite complicated, follow these instructions to test the model on your own.
+
+
+GitHub Link to test the code with a user interface: https://github.com/HanishAcharla/TSA-Nationals-Website
