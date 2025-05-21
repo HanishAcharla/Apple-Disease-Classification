@@ -1,7 +1,5 @@
 # Apple-Disease-Classification
 
-Paper Summary: https://docs.google.com/document/d/11jf7lHJU6IOVDTwE61nuoiBuO8W1_Zz3vMVJeXuR5Z4/edit?tab=t.0
-
 This Github is split into 3 main folders. 
 
 Code:
