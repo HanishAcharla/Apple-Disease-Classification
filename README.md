@@ -29,4 +29,4 @@ User Test: All information for judge testing will be available here
 -Intstructions: As the process can be quite complicated, follow these instructions to test the model on your own.
 
 
-GitHub Link to test the code with a user interface: https://github.com/HanishAcharla/TSA-Nationals-Website
+GitHub Link to test the code with a website user interface: https://github.com/HanishAcharla/TSA-Nationals-SoftwareDev-Website.git
