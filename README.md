@@ -28,4 +28,11 @@ User Test: All information for judge testing will be available here
 
 
 GitHub Link to test the code with a website user interface. Clone the repository and run it on your local machine for testing.
+
 https://github.com/HanishAcharla/TSA-Nationals-SoftwareDev-Website.git
+
+The website is built with flask for optimal ML integration, so use
+
+python3 app.py
+
+in the terminal to run the website locally.
